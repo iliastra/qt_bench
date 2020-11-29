@@ -1,2 +1,2 @@
-# Bnech like a test for Qt-Framework
+# Bench-dump like a test for Qt-Framework
 GUI for Updatig form
